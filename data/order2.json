@@ -1,0 +1,19 @@
+[
+  {
+    "ID": "134c8488-48f7-47b8-851f-4994483ffdaf",
+    "Source": "Test company 3",
+    "Date": "13.3.2024",
+    "Items": [
+      {
+        "Name": "Test item 3",
+        "Price": 108.4,
+        "Count": 7
+      },
+      {
+        "Name": "Test item 4",
+        "Price": 88.4,
+        "Count": 2
+      }
+    ]
+  }
+]
